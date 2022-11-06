@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="wrapper">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/bcrypt-master.zip!/bcrypt-master/.mvn/wrapper" />
+      <root url="jar://$USER_HOME$/Downloads/bcrypt-master.zip!/bcrypt-master/modules/bcrypt-cli/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/bcrypt-master.zip!/bcrypt-master/modules/bcrypt-cli/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/bcrypt-master.zip!/bcrypt-master/modules/bcrypt/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/bcrypt-master.zip!/bcrypt-master/modules/bcrypt/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/bcrypt-master.zip!/bcrypt-master/modules/benchmark-jmh/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
